@@ -9,10 +9,19 @@
   },
   "private": true,
   "dependencies": {
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.13.2",
+    "@mui/styles": "^5.13.2",
+    "@mui/types": "^7.2.4",
     "@swc/helpers": "~0.5.0",
+    "axios": "^1.4.0",
+    "date-fns": "^2.30.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "tslib": "^2.3.0"
+    "react-router-dom": "^6.11.2",
+    "tslib": "^2.3.0",
+    "usehooks-ts": "^2.9.1",
+    "zustand": "^4.3.8"
   },
   "devDependencies": {
     "@babel/preset-react": "^7.14.5",
