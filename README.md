@@ -100,8 +100,9 @@ Visit the [Nx Getting started with React and NX](https://nx.dev/tutorials/react-
 
 ### Changelog
 
-- 1.0.0 Application version
+- 0.0.0 Application version
 
 ## Illustration of the application
 
-![image](image.png)
+![image](https://github.com/Bahaa-Fadhil/weather-app/assets/32929383/ba5772a8-ff33-4191-acc6-b02546698021)
+![image](https://github.com/Bahaa-Fadhil/weather-app/assets/32929383/25af04bc-5503-4df6-adf7-59a094315e83)
