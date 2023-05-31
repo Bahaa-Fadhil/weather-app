@@ -1,1 +1,20 @@
 /* Your styles goes here. */
+
+.app {
+  background-color: #fff;
+  position: relative;
+  width: 100%;
+  height: 100vh;
+}
+
+.app::before {
+  content: '';
+  background: url('./../assets/wave.svg') no-repeat center center;
+  background-size: cover;
+  background-color: #ffffff;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
