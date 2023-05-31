@@ -1,8 +1,13 @@
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
+import { ApplicationHeader, WeatherDashboard } from 'src/components';
 import styles from './app.module.css';
 
 export function App() {
-  return <div>{/* Add components code here */}</div>;
+  return (
+    <div className={styles['app']}>
+      <ApplicationHeader />
+      <WeatherDashboard />
+    </div>
+  );
 }
 
 export default App;
