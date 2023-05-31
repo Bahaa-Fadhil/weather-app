@@ -104,5 +104,5 @@ Visit the [Nx Getting started with React and NX](https://nx.dev/tutorials/react-
 
 ## Illustration of the application
 
-![image](https://github.com/Bahaa-Fadhil/weather-app/assets/32929383/ba5772a8-ff33-4191-acc6-b02546698021)
-![image](https://github.com/Bahaa-Fadhil/weather-app/assets/32929383/25af04bc-5503-4df6-adf7-59a094315e83)
+![image](https://github.com/Bahaa-Fadhil/weather-app/assets/32929383/b8f1a705-e30a-4122-842a-19fa329d12e9)
+![image](https://github.com/Bahaa-Fadhil/weather-app/assets/32929383/d50fc8fd-3e03-4d1e-b95e-dbfc7f273e10)
